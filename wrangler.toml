@@ -1,0 +1,8 @@
+name = "sterling-opulence-api"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "sterling-opulence-db"
+database_id = "5120e8a8-4a5d-423d-9a8e-205a9e3b01e4"
